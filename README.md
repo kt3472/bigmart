@@ -1,6 +1,7 @@
 ## BigMart Sales Prediction
 
 **1. Object**
+  - 빅마트의 상품아이템별 판매수량 예측 
 
 
 **2. Data & Exploration**
