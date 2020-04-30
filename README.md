@@ -18,13 +18,19 @@
 
 
 **4. Modeling**
-  - Linear/Ridge Regression, Decision Tree Regressor, XGBoost
+  - Linear/Ridge Reg., Decision Tree Reg., Random forest Reg., XGBoost Reg.
   - 평가척도 : RMSE
   
 
 **5. Results**
-  - Linear/Ridge Regression, Decision Tree Regressor, XGBoost
-  - 평가척도 : RMSE
+
+|models|RMSE|
+|------|---|
+|Linear Regression|1127|
+|Ridge Regression|1128|
+|Decision Tree Regressor|1058|
+|XGBoost|테스트2|
+
 
 
 **7. Reference**
