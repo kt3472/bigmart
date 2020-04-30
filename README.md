@@ -26,11 +26,11 @@
 
 |models|RMSE|
 |------|---|
-|Linear Regression|1127|
-|Ridge Regression|1128|
-|Decision Tree Regressor|1058|
-|Random Forest|1078|
-|XGBoost|999.2|
+|Linear Reg.|1127|
+|Ridge Reg.|1128|
+|Decision Tree Reg.|1058|
+|Random Forest Reg.|1078|
+|XGBoost Reg.|999.2|
 
 
 **6. Reference**
