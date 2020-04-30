@@ -17,13 +17,14 @@
   - Outlet_Size, Outlet_location 등 6개 Object형 컬럼을 dummy 변수로 생성
 
 
-**4. Model tuning**
+**4. Modeling**
+  - Linear/Ridge Regression, Decision Tree Regressor, XGBoost
+  - 평가척도 : RMSE
+  
 
-
-**5. Ensemble**
-
-
-**6. Results**
+**5. Results**
+  - Linear/Ridge Regression, Decision Tree Regressor, XGBoost
+  - 평가척도 : RMSE
 
 
 **7. Reference**
