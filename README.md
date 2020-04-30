@@ -18,7 +18,7 @@
 
 
 **4. Modeling**
-  - Linear/Ridge Reg., Decision Tree Reg., Random forest Reg., XGBoost Reg.
+  - Linear/Ridge/Decision Tree/Random Forest/XGBoost Regression
   - 평가척도 : RMSE
   
 
@@ -29,10 +29,10 @@
 |Linear Regression|1127|
 |Ridge Regression|1128|
 |Decision Tree Regressor|1058|
-|XGBoost|테스트2|
+|Random Forest|1078|
+|XGBoost|999.2|
 
 
-
-**7. Reference**
+**6. Reference**
   - https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data 
 
